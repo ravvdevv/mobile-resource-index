@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "release": "https://github.com/ravvdevv/mobile-resource-index/releases/tag/v1.0.0",
+  "archives": [
+    {
+      "name": "anim",
+      "file": "anim.zip",
+      "url": "https://github.com/ravvdevv/mobile-resource-index/releases/download/v1.0.0/anim.zip",
+      "sha256": "ffccd4a9a53456bb829caf59dcfd407c6c908be8f94ec07663c345f736ae056e"
+    },
+    {
+      "name": "audio",
+      "file": "audio.zip",
+      "url": "https://github.com/ravvdevv/mobile-resource-index/releases/download/v1.0.0/audio.zip",
+      "sha256": "37e7281faa3f13b538525f752b70e79f0649eef84df65138ea7d63e84671c3d7"
+    },
+    {
+      "name": "data",
+      "file": "data.zip",
+      "url": "https://github.com/ravvdevv/mobile-resource-index/releases/download/v1.0.0/data.zip",
+      "sha256": "6cc3b515117135b66e6da792b9497ef8d83996782698857330b9595f589d601c"
+    },
+    {
+      "name": "fonts",
+      "file": "fonts.zip",
+      "url": "https://github.com/ravvdevv/mobile-resource-index/releases/download/v1.0.0/fonts.zip",
+      "sha256": "b92836f3fd3b3454d4dad7ab1545abe90c85da1828ba2ae13fab93ab6286b5f2"
+    },
+    {
+      "name": "models",
+      "file": "models.zip",
+      "url": "https://github.com/ravvdevv/mobile-resource-index/releases/download/v1.0.0/models.zip",
+      "sha256": "7261dcfaf5586efa1227bb26b7d088c2855d4426c1fab9590c626490dd18bd18"
+    },
+    {
+      "name": "SAMP",
+      "file": "SAMP.zip",
+      "url": "https://github.com/ravvdevv/mobile-resource-index/releases/download/v1.0.0/SAMP.zip",
+      "sha256": "95602bb90cd6a1b4a75635ac8037750fd1ec4b04a12163e5bb134b7416047bb6"
+    },
+    {
+      "name": "texdb",
+      "file": "texdb.zip",
+      "url": "https://github.com/ravvdevv/mobile-resource-index/releases/download/v1.0.0/texdb.zip",
+      "sha256": "63a42894e345c898eb1073964fac25accad13e7df12e6c07cd46f23bd476c612"
+    },
+    {
+      "name": "ext",
+      "file": "nodes.zip",
+      "url": "https://github.com/ravvdevv/mobile-resource-index/releases/download/v1.0.0/nodes.zip",
+      "sha256": "7d9d18f719f6d0b0aef8169eec3375a1a2c0e3ba4f85946adc90a6d000014b3a"
+    },
+    {
+      "name": "sets",
+      "file": "sets.zip",
+      "url": "https://github.com/ravvdevv/mobile-resource-index/releases/download/v1.0.0/sets.zip",
+      "sha256": "9142ec42de9ee26e3c0f4527aec57e2702f0e5b556397c33f666317264440b97"
+    }
+  ]
+}
